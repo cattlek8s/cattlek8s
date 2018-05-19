@@ -1,0 +1,6 @@
+linuxkit
+*.qcow2
+kube-*-state
+*-cmdline
+*-initrd.img
+*-kernel

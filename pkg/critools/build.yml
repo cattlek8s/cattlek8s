@@ -1,0 +1,6 @@
+org: cattlek8s
+image: critools
+network: true
+config:
+  binds:
+  - /etc/resolv.conf:/etc/resolv.conf
